@@ -3,11 +3,11 @@
 
 - 🔭 Bachelor: **Bioengineering at Marmara University in Turkey ✓**
 
-- 🌱 I’m currently learning **Novel ML algorithms, drug delivery systems, docking, molecular dynamics, DFT and so on.**
-
 - 📝 MSc **Medical Chemistry at Cardiff University ✓**
 
 - 💻 PhD **Computer Science at Birmingham University 🔜**
+
+- 🌱 I’m currently learning **Novel ML algorithms, drug delivery systems, docking, molecular dynamics, DFT and so on.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yauz3](https://github.com/yauz3)
 
